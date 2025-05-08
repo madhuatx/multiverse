@@ -13,7 +13,7 @@
 ## Installation
 ```bash
 git clone https://github.com/EnigmaLabsAI/multiverse
-cd multiplayer-ai
+cd multiverse
 pip install -r requirements.txt
 ```
 
