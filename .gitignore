@@ -1,0 +1,5 @@
+*.pyc
+*.zip
+checkpoints
+**/__pycache__/
+
