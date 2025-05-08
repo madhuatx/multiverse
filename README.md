@@ -23,6 +23,8 @@ pip install -r requirements.txt
 python src/play.py --compile
 ```
 
+> Note on Apple Silicon you must enable CPU fallback for MPS backend with PYTORCH_ENABLE_MPS_FALLBACK=1 python src/play.py
+
 When running this command, you will be prompted with the controls. Press `enter` to start:
 ![img.png](assets/img.png)
 
