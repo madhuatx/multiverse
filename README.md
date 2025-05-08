@@ -5,7 +5,7 @@
 <div align='center'>
  <b>Two human players driving cars in Multiverse</b>
 <br>
-  <img alt="Cars in Multiverse" src="assets/demo.gif">
+  <img alt="Cars in Multiverse" src="assets/demo.gif" width="400">
 </div>
 
 ---
