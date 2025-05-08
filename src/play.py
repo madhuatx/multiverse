@@ -34,7 +34,7 @@ def check_args(args: argparse.Namespace) -> None:
 
 
 def prepare_play_mode(cfg: DictConfig, args: argparse.Namespace) -> PlayEnv:
-    path_hf = Path(snapshot_download(repo_id="Enigma-AI/test_model"))
+    path_hf = Path(snapshot_download(repo_id="Enigma-AI/multiverse"))
 
     path_ckpt = path_hf / 'agent.pt'
     spawn_dir = Path('.') / 'game/spawn'
